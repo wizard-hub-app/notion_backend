@@ -1,3 +1,4 @@
 openai
 notion-client
 loguru
+bs4
